@@ -1,0 +1,44 @@
+
+
+.a{
+    box-shadow: 2px 2px 2px 2px  rgba(0, 0, 0, 0.232);
+    border-radius: 10px;
+}
+
+.tags{
+    display: inline-block;
+    margin: 3px;
+    padding: 3px;
+    background-color: rgb(96, 91, 91);
+    border-radius: 30px;
+    color: white;
+}
+.pimg{width: 40px;}
+
+#addPostButton{
+    position: fixed;
+    background-color: blue;
+    bottom: 5%;
+    right: 7%;
+    height: 70px;
+    width: 70px;
+    font-size: 50px;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    cursor: pointer;
+}
+.comment{
+    margin: 4px;
+    padding: 7px;
+    border: solid lightseagreen;
+    border-radius: 20px;
+}
+.number-info{
+    color: rgb(103, 101, 101);
+    font-weight: 100;
+}
+.number-info span{
+    font-size: 50px;
+    color: black;
+}
